@@ -1,4 +1,4 @@
-# Middle East Jobs Dashboard Inn Power BI
+# Middle East Jobs Dashboard In Power BI
 
 **Dashboard Page**
 ![Dashboard Page 1](images/Middle_East_Dashboard_1.png)
